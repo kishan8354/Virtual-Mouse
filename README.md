@@ -42,9 +42,9 @@ The application recognizes the following hand gestures:
    Ensure a webcam is connected and functional.
 
 5. **Run the Application**:
-   Execute the main script (e.g., `main.py`):
+   Execute the main script (e.g., `main.ipynb`):
    ```bash
-   python main.py
+   python main.ipynb
    ```
 
 ## Usage
