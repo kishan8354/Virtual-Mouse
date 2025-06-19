@@ -24,7 +24,7 @@ The application recognizes the following hand gestures:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/kishan8354/Virtual-Mouse.git
-   cd hand-gesture-mouse-control
+   cd Virtual-Mouse
    ```
 
 2. **Install Python**:
