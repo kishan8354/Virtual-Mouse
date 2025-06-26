@@ -1,4 +1,6 @@
 # Virtual Mouse
+![ChatGPT Image Jun 26, 2025, 04_53_49 PM](https://github.com/user-attachments/assets/cb4a253e-3c30-4d24-827c-4c1c5687d2a2)
+
 
 A Python application that uses computer vision to control mouse actions through hand gestures captured via a webcam. The system detects hand landmarks to perform actions like left click, right click, double click, screenshot, and mouse movement.
 
